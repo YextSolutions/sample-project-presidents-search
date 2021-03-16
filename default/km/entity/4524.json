@@ -1,0 +1,13 @@
+{
+  "$id": "4524",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_body": "William howard taft Wikispecies (species directory) Wikipedia does not have an article with this exact name. Please search for William howard taft in Wikipedia to check for alternative titles or spellings. Look for pages within Wikipedia that link to this title . Other reasons this message may be displayed: If a page was recently created here, it may not be visible yet because of a delay in updating the database; wait a few minutes or try the purge function . Titles on Wikipedia are case sensitive except for the first character; please check alternative capitalizations and consider adding a redirect here to the correct title.",
+    "c_photoURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/William_Howard_Taft_-_Harris_and_Ewing.jpg/330px-William_Howard_Taft_-_Harris_and_Ewing.jpg",
+    "c_wikiURL": "https://en.wikipedia.org/wiki/william_howard_taft",
+    "yext/name": "William Howard Taft"
+  },
+  "entityType": "ce_wikiBio",
+  "labels": []
+}

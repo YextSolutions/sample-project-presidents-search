@@ -1,0 +1,13 @@
+{
+  "$id": "4518",
+  "$schema": "https://schema.yext.com/config/km/entity/v1",
+  "primaryLocale": "en",
+  "content": {
+    "c_body": "Grover cleveland Wikispecies (species directory) Wikipedia does not have an article with this exact name. Please search for Grover cleveland in Wikipedia to check for alternative titles or spellings. Look for pages within Wikipedia that link to this title . Other reasons this message may be displayed: If a page was recently created here, it may not be visible yet because of a delay in updating the database; wait a few minutes or try the purge function . Titles on Wikipedia are case sensitive except for the first character; please check alternative capitalizations and consider adding a redirect here to the correct title.",
+    "c_photoURL": "http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grover_Cleveland_-_NARA_-_518139.jpg/330px-Grover_Cleveland_-_NARA_-_518139.jpg",
+    "c_wikiURL": "https://en.wikipedia.org/wiki/grover_cleveland",
+    "yext/name": "Grover Cleveland"
+  },
+  "entityType": "ce_wikiBio",
+  "labels": []
+}

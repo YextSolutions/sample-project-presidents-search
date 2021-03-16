@@ -1,0 +1,14 @@
+{
+  "$id": "c_bodyText",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "Article text body",
+  "displayName": "Body Text",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "stringType": {
+      "stereotype": "MULTILINE"
+    }
+  },
+  "typeId": "yext/string"
+}

@@ -1,0 +1,57 @@
+{
+  "$id": "siteConnector3",
+  "$schema": "https://schema.yext.com/config/km/connector/v1",
+  "displayName": "Presidents Data Connector",
+  "entityType": "ce_wikiBio",
+  "source": {
+    "sourceConfig": {
+      "crawlerConfig": {
+        "crawler": "uspresidentpages",
+        "urlPatterns": []
+      }
+    },
+    "selectors": [
+      {
+        "type": "PAGE_ID",
+        "header": "Page ID"
+      },
+      {
+        "type": "PAGE_URL",
+        "header": "Page URL"
+      },
+      {
+        "type": "PAGE_TITLE",
+        "header": "Page Title"
+      },
+      {
+        "type": "CLEANED_BODY",
+        "header": "Body"
+      }
+    ]
+  },
+  "mappings": [
+    {
+      "field": "c_wikiURL",
+      "header": "Page URL",
+      "subfieldPath": []
+    },
+    {
+      "field": "yext/name",
+      "header": "Page Title",
+      "subfieldPath": []
+    },
+    {
+      "field": "c_body",
+      "header": "Body",
+      "subfieldPath": []
+    },
+    {
+      "field": "yext/entityId",
+      "header": "Page ID",
+      "subfieldPath": []
+    }
+  ],
+  "scheduleConfig": {
+    "useSourceSchedule": false
+  }
+}

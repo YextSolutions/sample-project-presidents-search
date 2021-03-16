@@ -1,0 +1,21 @@
+{
+  "$id": "c_body",
+  "$schema": "https://schema.yext.com/config/km/field/v1",
+  "description": "The body of the Wikipedia article.",
+  "displayName": "Body",
+  "group": "NONE",
+  "localization": "PRIMARY_ONLY",
+  "type": {
+    "richTextType": {
+      "supportedFormat": [
+        "BOLD",
+        "BULLETED_LIST",
+        "HYPERLINK",
+        "ITALICS",
+        "NUMBERED_LIST",
+        "UNDERLINE"
+      ]
+    }
+  },
+  "typeId": "yext/richText"
+}

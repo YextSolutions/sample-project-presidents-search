@@ -1,0 +1,65 @@
+{
+  "$schema": "https://schema.yext.com/config/answers/answers-config/v1",
+  "$id": "us_presidents_demo",
+  "name": "US Presidents",
+  "supportedLocales": [],
+  "countryRestrictions": [],
+  "verticals": {
+    "wiki_bios": {
+      "entityTypes": [
+        "ce_wikiBio"
+      ],
+      "name": "Wiki Bios",
+      "searchableFields": {
+        "builtin.entityType": {},
+        "c_body": {
+          "documentSearch": true
+        },
+        "name": {
+          "phraseMatch": true,
+          "sortable": true,
+          "textSearch": true
+        }
+      },
+      "sortBys": [],
+      "source": "KNOWLEDGE_MANAGER"
+    }
+  },
+  "synonyms": {
+    "oneWay": [],
+    "synonymSet": [
+      [
+        "donald trump",
+        "impeached twice"
+      ],
+      [
+        "richard nixon",
+        "resign"
+      ],
+      [
+        "barack obama",
+        "first black president",
+        "african american president"
+      ]
+    ]
+  },
+  "localizations": {},
+  "additionalSearchablePlaces": [],
+  "querySuggestions": {
+    "popularQueriesBlacklistedTerms": [],
+    "universalPrompts": [
+      "where was barack obama born?",
+      "which president presided over reconstruction?",
+      "what did clinton do as governor?",
+      "who did nixon lose to in 1960?",
+      "where did teddy roosevelt go to school?"
+    ],
+    "verticalPrompts": {
+      "wiki_bios": [
+        "where was [[name]] born",
+        "what party was [[name]]"
+      ]
+    }
+  },
+  "tier": "Alpha"
+}

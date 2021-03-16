@@ -1,0 +1,38 @@
+{
+  "$id": "ce_wikiBio",
+  "$schema": "https://schema.yext.com/config/km/entity-type/v1",
+  "description": "A Bio of a U.S. President, scraped from Wikipedia",
+  "displayName": "U.S President",
+  "enabled": true,
+  "field": [
+    {
+      "id": "yext/name",
+      "required": true
+    },
+    {
+      "id": "c_body",
+      "required": false
+    },
+    {
+      "id": "c_photoURL",
+      "required": false
+    },
+    {
+      "id": "c_wikiURL",
+      "required": false
+    },
+    {
+      "id": "yext/folder",
+      "required": false
+    },
+    {
+      "id": "yext/labels",
+      "required": false
+    },
+    {
+      "id": "yext/entityId",
+      "required": true
+    }
+  ],
+  "pluralDisplayName": "U.S. Presidents"
+}
