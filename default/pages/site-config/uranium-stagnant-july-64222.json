@@ -4,7 +4,7 @@
   "siteName": "Answers - US Presidents Search",
   "repoConfig": {
     "targetRepoName": "answersUSPresidentsSearch_targetRepo-${{businessId}}.com",
-    "templateRepo": "https://github.com/YextSolutions/sample-project-presidents-search"
+    "templateRepo": "https://github.com/yext-pages/answers-presidentSearchTemplate"
   },
   "publishingConfig": {
     "pinnedStagingBranchName": "refs/heads/master",
