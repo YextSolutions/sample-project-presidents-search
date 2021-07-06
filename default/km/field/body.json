@@ -13,7 +13,8 @@
         "HYPERLINK",
         "ITALICS",
         "NUMBERED_LIST",
-        "UNDERLINE"
+        "UNDERLINE",
+        "SUPERSCRIPT"
       ]
     }
   },
