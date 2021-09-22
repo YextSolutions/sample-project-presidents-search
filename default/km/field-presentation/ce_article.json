@@ -13,15 +13,15 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/name",
+          "id": "name",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/entityId",
+          "id": "entityId",
           "visibleOnAdd": true
         },
         {
-          "id": "yext/categories"
+          "id": "categories"
         },
         {
           "id": "c_bodyText"
@@ -30,7 +30,7 @@
           "id": "c_author"
         },
         {
-          "id": "yext/datePosted"
+          "id": "datePosted"
         }
       ]
     },
@@ -43,10 +43,10 @@
       "entryType": "SECTION",
       "fields": [
         {
-          "id": "yext/folder"
+          "id": "folder"
         },
         {
-          "id": "yext/labels"
+          "id": "labels"
         }
       ]
     }

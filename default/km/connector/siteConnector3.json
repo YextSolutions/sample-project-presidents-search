@@ -36,7 +36,7 @@
       "subfieldPath": []
     },
     {
-      "field": "yext/name",
+      "field": "name",
       "header": "Page Title",
       "subfieldPath": []
     },
@@ -46,7 +46,7 @@
       "subfieldPath": []
     },
     {
-      "field": "yext/entityId",
+      "field": "entityId",
       "header": "Page ID",
       "subfieldPath": []
     }
