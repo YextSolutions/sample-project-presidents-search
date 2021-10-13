@@ -1,6 +1,6 @@
 {
   "$id": "siteConnector3",
-  "$schema": "https://schema.yext.com/config/km/connector/v1",
+  "$schema": "https://schema.yext.com/config/km/connector/v2",
   "displayName": "Presidents Data Connector",
   "entityType": "ce_wikiBio",
   "source": {
