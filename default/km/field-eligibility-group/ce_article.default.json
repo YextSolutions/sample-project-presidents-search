@@ -1,0 +1,12 @@
+{
+  "$id": "ce_article.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "Article-default",
+  "entityType": "ce_article",
+  "fields": [
+    "datePosted",
+    "categories",
+    "c_author",
+    "c_bodyText"
+  ]
+}

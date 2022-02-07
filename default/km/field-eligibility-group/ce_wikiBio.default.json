@@ -1,0 +1,11 @@
+{
+  "$id": "ce_wikiBio.default",
+  "$schema": "https://schema.yext.com/config/km/field-eligibility-group/v1",
+  "name": "U.S President-default",
+  "entityType": "ce_wikiBio",
+  "fields": [
+    "c_body",
+    "c_photoURL",
+    "c_wikiURL"
+  ]
+}
